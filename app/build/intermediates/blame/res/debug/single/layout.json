@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/activity_map.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/fragment_whats_hot.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/fragment_whats_hot.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/fragment_find_people.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/fragment_find_people.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/fragment_photos.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/fragment_photos.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/fragment_pages.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/fragment_pages.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/activity_category.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/fragment_community.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/fragment_community.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/layout/drawer_list_item.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/drawable/list_item_bg_normal.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/drawable/list_item_bg_normal.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/drawable/counter_bg.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/drawable/counter_bg.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/drawable/list_item_bg_pressed.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/drawable/list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/home/user/AndroidStudioProjects/SlidingMenu1/SlidingMenu/app/src/main/res/drawable/list_selector.xml"
+    }
+]
